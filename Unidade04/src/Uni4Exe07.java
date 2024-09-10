@@ -11,7 +11,19 @@ public class Uni4Exe07 {
 
         Scanner scanner = new Scanner(System.in);
 
-        
+        System.out.println("Entre com peso da carta:");
+        Double pesoCartaEmGramas = scanner.nextDouble();
+        Double valorPagar = 0.0;
+
+        if (pesoCartaEmGramas <= 50) {
+            valorPagar = 0.45;
+        } else {
+            double pesoExcedido = pesoCartaEmGramas - 50;
+            double qtAdicional = (pesoExcedido / 20) + 1;
+            valorPagar = 0.45f + 0.45f * qtAdicional;
+        }
+
+        System.out.println("Custo do selo: R$" + valorPagar);
 
         scanner.close();
     }

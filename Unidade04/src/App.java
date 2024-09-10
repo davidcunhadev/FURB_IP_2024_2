@@ -7,5 +7,24 @@ public class App {
         Uni4Exe05.main(args);
         Uni4Exe06.main(args);
         Uni4Exe07.main(args);
+        Uni4Exe08.main(args);
+        Uni4Exe09.main(args);
+        Uni4Exe10.main(args);
+        Uni4Exe11.main(args);
+        Uni4Exe12.main(args);
+        Uni4Exe13.main(args);
+        Uni4Exe14.main(args);
+        Uni4Exe15.main(args);
+        Uni4Exe16.main(args);
+        Uni4Exe18.main(args);
+        Uni4Exe19.main(args);
+        Uni4Exe20.main(args);
+        Uni4Exe21.main(args);
+        Uni4Exe22.main(args);
+        Uni4Exe23.main(args);
+        Uni4Exe24.main(args);
+        Uni4Exe25.main(args);
+        Uni4Exe26.main(args);
+        Uni4Exe27.main(args);
     }
 }

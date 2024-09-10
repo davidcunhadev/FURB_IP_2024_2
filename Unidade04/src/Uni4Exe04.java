@@ -12,8 +12,6 @@ public class Uni4Exe04 {
         System.out.println("Digite um número de ponto flutuante maior que 0: ");
         Double valor = scanner.nextDouble();
 
-        
-
         if ((valor - Math.floor(valor) > 0)) {
             System.out.println("Foram digitadas casas decimais.");
         } else {
