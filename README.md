@@ -1,5 +1,5 @@
-## Exercícios do conteúdo de Introdução à Programação
+# Introdução a Programação 2024-2
 
-### Este repositório contém as respectivas pastas de cada unidade da disciplina de Introdução à Programação e suas respectivas atividades.
+### Prof. *Dalton Reis*
 
-## 👍
+[Repositório da disciplina](https://github.com/dalton-reis/disciplina_IP_2024_2_A/tree/main)
